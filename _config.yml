@@ -354,7 +354,7 @@ mobile_layout_economy: true
 android_chrome_color: "#222"
 
 # Custom Logo (Do not support scheme Mist)
-custom_logo: /images/arrow.gif #https://raw.sevencdn.com/Arrowes/Blog/main/images/Arrow.png
+custom_logo: /images/arrow.png #https://raw.sevencdn.com/Arrowes/Blog/main/images/Arrow.png #/images/arrow.gif 
 
 codeblock:
   # Code Highlight theme
