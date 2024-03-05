@@ -754,7 +754,7 @@ local_search:
   # Unescape html strings to the readable one.
   unescape: true
   # Preload the search data when the page loads.
-  preload: true
+  preload: false
 
 # Swiftype Search API Key
 swiftype_key:
